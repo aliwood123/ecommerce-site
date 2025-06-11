@@ -5,6 +5,7 @@ import Hero from './components/Hero';
 import Newsletter from './components/Newsletter';
 import Header from './components/Header';
 import Footer from './components/Footer';
+import SocialGallery from './components/SocialGallery';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         <Hero />
         <BrandIntro />
         <FeaturedCategories />
+        <SocialGallery />
         <Newsletter />
       </main>
       <Footer />

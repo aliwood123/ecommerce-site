@@ -2,7 +2,7 @@ import React from 'react';
 
 const BrandIntro: React.FC = () => {
   return (
-    <section className="bg-gray-50">
+    <section className="bg-[#E5E9E3]/60">
       <div className="max-w-4xl mx-auto px-4 py-20 text-center">
         <p className="text-lg md:text-xl text-gray-700 leading-relaxed">
           We craft premium outdoor apparel that seamlessly transitions from trail to town. 
