@@ -1,35 +1,37 @@
 # Outdoor Apparel E-commerce Site
 
-A modern e-commerce website for outdoor recreation apparel, built with React and Tailwind CSS.
+A modern e-commerce platform for outdoor apparel, built with React and Tailwind CSS.
 
 ## Features
 
 - Responsive design
-- Modern, clean UI
-- Featured product categories
+- Product catalog with categories
+- Search functionality
 - Newsletter signup
-- Mobile-first approach
+- Modern UI with hover effects
+- Video hero section
 
 ## Tech Stack
 
-- React
-- TypeScript
-- Tailwind CSS
-- Modern ES6+ JavaScript
+- React with TypeScript
+- Tailwind CSS for styling
+- Modern JavaScript features
+- Responsive design principles
 
 ## Getting Started
 
-1. Install dependencies:
-   ```bash
-   npm install
-   ```
+1. Clone the repository
+2. Install dependencies: `npm install`
+3. Start the development server: `npm start`
+4. Open [http://localhost:3000](http://localhost:3000) to view it in the browser
 
-2. Start the development server:
-   ```bash
-   npm start
-   ```
+## Development
 
-3. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+The site is built with modern web technologies and best practices:
+- Component-based architecture
+- Responsive design
+- Accessibility considerations
+- Performance optimization
 
 ## Project Structure
 
@@ -48,9 +50,3 @@ src/
   ├── index.tsx          # Entry point
   └── index.css          # Global styles and Tailwind imports
 ```
-
-## Development
-
-- Run `npm start` to start the development server
-- Run `npm build` to create a production build
-- Run `npm test` to run tests 
